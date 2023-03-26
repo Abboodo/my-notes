@@ -24,7 +24,7 @@ The understanding of the requiremt selecting the good progreammer or the bad one
 your code should be consistent so the developer dont have to relearn your code to understand it.
 If i have to chabge something in my code and bring me a good result and less effort that will be better. when you facing a problem and you dont how to solve it you should start piece by piece to fix it not at one time.always dont put yourself in problems with the code and miss the deadline and and got a lot of bugs, ***everything should be perfect*** start small and extend it.dont work so far be *genric* so you dont have to make  a code for a future because this idea will not work in future so spend effort for nothing. Don't Reinvent the wheel unlees you need something dosen't exist or not consistent and too old.
 dont spend time on repetitive tasks 
-### *If you can automate it, automate it.*
+*If you can automate it, automate it.*
 Always Remember to avoid long line of codes.
 Dont try to guess the result without test the code 
 ***Untested code is the code that doesn’t work***
