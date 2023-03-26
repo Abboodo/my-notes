@@ -34,3 +34,10 @@ the main goal of comment codes is to write why you did this not what this code d
 try more than one programming language try some tools some features dont stay on uniqe programming language.
 ***And always remember dont ask  qusetions ask for help*** 
 you dont need the solutuoin to develop yourself you need some advice to know how to fix something and that help you to get better.
+This [**Article**](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) i learned from  
+***
+# README CREATED USING 
+- ## Ubuntu 
+ ![Ubuntu](https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/ubuntu/logo.png)
+ - ## VScode 
+ ![VS Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
