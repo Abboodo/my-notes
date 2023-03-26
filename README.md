@@ -34,7 +34,7 @@ the main goal of comment codes is to write why you did this not what this code d
 try more than one programming language try some tools some features dont stay on uniqe programming language.
 ***And always remember dont ask  qusetions ask for help*** 
 you dont need the solutuoin to develop yourself you need some advice to know how to fix something and that help you to get better.
-This [**Article**](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) i learned from  
+This [**Article**](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) i learned from.  
 ***
 # README CREATED USING 
 - ## Ubuntu 
