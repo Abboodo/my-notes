@@ -18,6 +18,16 @@ About Me
 - Gaming 
 
 # What i learend form the lecture :-
+- i understand the differenecs between the CLI& GUI 
+    - the CLI is the command line interface which used in terminal
+    - the GUI is the grahpic user interface which is the all pictures and windows and ,apps ,program we used and interact with. 
+- learned new things about the basic terminal commands like:- cd : 'Change Directory'
+mkdir :- 'Make Directory' & ls :- to list the files .
+- learned what is git and what is github, clone the SSH of repository and create a **README** in Vs code 
+- learned some markdown language know how to make ul &heading & add links & add images..etc.
+- learned how to do a A-C-P cycle to upload a new Version of my **README**.
+
+# the summary of the article
  **Help people**, the developer should make a software thats help people in thier life not oly to show how much he intelligent.
 **A good Desgin** for the software which gives a good or bad view.
 The understanding of the requiremt selecting the good progreammer or the bad one, and how the code and the explation simple makes the code simple too much to read or detect a bugs, which is on other hand more complexity codes make a lot of work like a simple project need 1 month to finish it gonna take more than 3 months to finish it up, the main goal is to create code with less complexity, this guide us to the maintenance part which is the most important because when your are coding and editing and changing in your code you have to maintenance it before yu finish it.
@@ -41,3 +51,5 @@ This [**Article**](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a
  ![Ubuntu](https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/ubuntu/logo.png)
  - ## VScode 
  ![VS Code](https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png?f=webp&w=256)
+
+
